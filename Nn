@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>vo thanh nhan</title>
+     <meta charset="utf-8">
+    </head>
+    <body>
+        <h4>Em tên Võ Thành Nhân<br>
+            Lớp :12A5<br>
+            Trường :THPT Tân An<br>
+            Em xin trình bày bài Sang Thu của tác giả Hữu Thỉnh</h4>
+        <hr>
+        <h1 style="color: red;" align="center"><em>Sang Thu</em></h1>
+        <p style="font-family:Times New Roman">Bỗng nhận ra hương ổi<br>
+            Phả vào trong gió se<br>
+            Sương chùng chình qua ngõ<br>
+            Hình như thu đã về</p>
+        <p style="font-family:Courier New">Sông được lúc dềnh dàng<br>
+            Chim bắt đầu vội vã<br>
+            Có đám mây mùa hạ<br>
+            Vắt nửa mình sang thu </p>
+        <p style="font-family: Arial">Vẫn còn bao nhiêu nắng<br>
+                Đã vơi dần cơn mưa<br>
+                Sấm cũng bớt bất ngờ<br>
+                Trên hàng cây đứng tuổi</p>
+        <hr>
+        <p>Hữu Thỉnh <span style="color:red;">(tên thật là Nguyễn Hữu Thỉnh)</span>, sinh năm 1942 tại Vĩnh Phúc, là một nhà thơ tiêu biểu của văn học Việt Nam hiện đại. Ông được biết đến với những tác phẩm giàu cảm xúc và tính nhân văn, đặc biệt là những bài thơ ca ngợi vẻ đẹp của thiên nhiên và cuộc sống con người. Hữu Thỉnh từng tham gia quân đội, và điều này đã ảnh hưởng sâu sắc đến sáng tác của ông, giúp thơ ông phản ánh chân thực và xúc động về cuộc sống người lính và hậu phương trong thời chiến.</p>
+        <img src="https://www.thepoetmagazine.org/wp-content/uploads/2024/09/gioi-thieu-tac-gia-huu-thinh.jpg"/>
+    </body>
+     </html>
